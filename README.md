@@ -1,0 +1,1 @@
+# Yercekimi_Olcer_Cihazi
