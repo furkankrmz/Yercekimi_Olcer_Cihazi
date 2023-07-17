@@ -1,7 +1,7 @@
 //------------------------------------------------------------------
 // yerbukucu.ino
 // Bu program ...
-// yazar: Ahmet Furkan Kırmızı
+// Ahmet Furkan Kırmızı
 // tarih: Aug 2018
 //------------------------------------------------------------------
 #include "SevSeg.h"
